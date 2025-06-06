@@ -1,4 +1,3 @@
-# ml-bigdata-justice-iam
 # Code and Data for:  
 **Machine learning and big data-based stratifications to integrate justice into Integrated Assessment Models**
 
