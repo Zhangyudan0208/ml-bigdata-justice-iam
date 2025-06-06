@@ -58,6 +58,6 @@ Contains RMSE results under various urbanization speed and Shared Socioeconomic 
 - **4.3 MODERATE Urbanization Scenario**  
 - **4.4 SSP-4 Scenario**
 
-Each subfolder contains the RMSE results comparing urbanization projections from Hierarchical Clustering, DTW Clustering, and Hybrid DR-MOO methods, as well as projections from Jian & O'Neill and Chen et al., against historical urbanization data from the World Bank.
+Each subfolder contains the RMSE results comparing urbanization projections from Hierarchical Clustering, DTW Clustering, and MOO methods, as well as projections from Jian & O'Neill and Chen et al., against historical urbanization data from the World Bank.
 
 ---
