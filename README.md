@@ -24,15 +24,16 @@ This folder contains the main input datasets used throughout the analysis:
 
 This folder includes all Jupyter Notebooks used:
 
-- **File 1-HC.ipynb: Jupyter Notebook File (ipynb) for Hierarchical-Clustering**  
-
-- **File 2-TSC_DTW.ipynb: Jupyter Notebook File (ipynb) for Time Series Cluster with Dynamic Time Warping (TSC-DTW)**  
-
-- **File 3-MOO.ipynb: Jupyter Notebook File (ipynb) for Multi-objective Optimization (based on pymoo)**  
-
-- **File 4-RMSE.ipynb: Jupyter Notebook File (ipynb) for Urbanization Rate Projections**  
-
-- **File 5-Urb_Proj.ipynb: Jupyter Notebook File (ipynb) for Calculating Root Mean Square Errors for Urbanization Rate Projections**  
+- **File 1-HC.ipynb**
+  Jupyter Notebook File (ipynb) for Hierarchical-Clustering 
+- **File 2-TSC_DTW.ipynb**
+  Jupyter Notebook File (ipynb) for Time Series Cluster with Dynamic Time Warping (TSC-DTW)  
+- **File 3-MOO.ipynb**
+  Jupyter Notebook File (ipynb) for Multi-objective Optimization (based on pymoo)
+- **File 4-RMSE.ipynb**
+  Jupyter Notebook File (ipynb) for Urbanization Rate Projections  
+- **File 5-Urb_Proj.ipynb**
+  Jupyter Notebook File (ipynb) for Calculating Root Mean Square Errors for Urbanization Rate Projections
 
 ---
 
@@ -40,9 +41,12 @@ This folder includes all Jupyter Notebooks used:
 
 This folder includes the resulting groupings of countries based on the applied methods:
 
-- **File 1-Lists_HC.docx: the justice-stratified county group lists from the Hierarchical-Clustering**  
-- **File 2-Lists_TSC_DTW.docx: the justice-stratified county group lists from the Time Series Cluster with Dynamic Time Warping (TSC-DTW)**  
-- **File 3-Lists_MOO.docx: the justice-stratified county group lists from the Multi-objective Optimization (based on pymoo)**
+- **File 1-Lists_HC.docx**
+  The justice-stratified county group lists from the Hierarchical-Clustering  
+- **File 2-Lists_TSC_DTW.docx**
+  The justice-stratified county group lists from the Time Series Cluster with Dynamic Time Warping (TSC-DTW)  
+- **File 3-Lists_MOO.docx**
+  The justice-stratified county group lists from the Multi-objective Optimization (based on pymoo)
 
 Each file lists the resulting country groups formed under different methodological approaches, used in justice-based IAM scenario testing.
 
