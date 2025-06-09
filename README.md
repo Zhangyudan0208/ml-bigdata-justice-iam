@@ -24,15 +24,15 @@ This folder contains the main input datasets used throughout the analysis:
 
 This folder includes all Jupyter Notebooks used:
 
-- **File 1: Jupyter Notebook File (ipynb) for Hierarchical-Clustering**  
+- **File 1-HC.ipynb: Jupyter Notebook File (ipynb) for Hierarchical-Clustering**  
 
-- **File 2: Jupyter Notebook File (ipynb) for Time Series Cluster with Dynamic Time Warping (TSC-DTW)**  
+- **File 2-TSC_DTW.ipynb: Jupyter Notebook File (ipynb) for Time Series Cluster with Dynamic Time Warping (TSC-DTW)**  
 
-- **File 3: Jupyter Notebook File (ipynb) for Multi-objective Optimization (based on pymoo)**  
+- **File 3-MOO.ipynb: Jupyter Notebook File (ipynb) for Multi-objective Optimization (based on pymoo)**  
 
-- **File 4: Jupyter Notebook File (ipynb) for Urbanization Rate Projections**  
+- **File 4-RMSE.ipynb: Jupyter Notebook File (ipynb) for Urbanization Rate Projections**  
 
-- **File 5: Jupyter Notebook File (ipynb) for Calculating Root Mean Square Errors for Urbanization Rate Projections**  
+- **File 5-Urb_Proj.ipynb: Jupyter Notebook File (ipynb) for Calculating Root Mean Square Errors for Urbanization Rate Projections**  
 
 ---
 
