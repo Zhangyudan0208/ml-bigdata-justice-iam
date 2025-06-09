@@ -40,9 +40,9 @@ This folder includes all Jupyter Notebooks used:
 
 This folder includes the resulting groupings of countries based on the applied methods:
 
-- **File 1: the justice-stratified county group lists from the Hierarchical-Clustering**  
-- **File 2: the justice-stratified county group lists from the Time Series Cluster with Dynamic Time Warping (TSC-DTW)**  
-- **File 3: the justice-stratified county group lists from the Multi-objective Optimization (based on pymoo)**
+- **File 1-Lists_HC.docx: the justice-stratified county group lists from the Hierarchical-Clustering**  
+- **File 2-Lists_TSC_DTW.docx: the justice-stratified county group lists from the Time Series Cluster with Dynamic Time Warping (TSC-DTW)**  
+- **File 3-Lists_MOO.docx: the justice-stratified county group lists from the Multi-objective Optimization (based on pymoo)**
 
 Each file lists the resulting country groups formed under different methodological approaches, used in justice-based IAM scenario testing.
 
