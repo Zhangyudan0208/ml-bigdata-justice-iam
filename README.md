@@ -24,15 +24,15 @@ This folder contains the main input datasets used throughout the analysis:
 
 This folder includes all Jupyter Notebooks used:
 
-- **File 1-HC.ipynb**
+- **File 1-HC.ipynb**  
   Jupyter Notebook File (ipynb) for Hierarchical-Clustering 
-- **File 2-TSC_DTW.ipynb**
+- **File 2-TSC_DTW.ipynb**  
   Jupyter Notebook File (ipynb) for Time Series Cluster with Dynamic Time Warping (TSC-DTW)  
-- **File 3-MOO.ipynb**
+- **File 3-MOO.ipynb**  
   Jupyter Notebook File (ipynb) for Multi-objective Optimization (based on pymoo)
-- **File 4-RMSE.ipynb**
+- **File 4-RMSE.ipynb**  
   Jupyter Notebook File (ipynb) for Urbanization Rate Projections  
-- **File 5-Urb_Proj.ipynb**
+- **File 5-Urb_Proj.ipynb**  
   Jupyter Notebook File (ipynb) for Calculating Root Mean Square Errors for Urbanization Rate Projections
 
 ---
@@ -41,11 +41,11 @@ This folder includes all Jupyter Notebooks used:
 
 This folder includes the resulting groupings of countries based on the applied methods:
 
-- **File 1-Lists_HC.docx**
+- **File 1-Lists_HC.docx**  
   The justice-stratified county group lists from the Hierarchical-Clustering  
-- **File 2-Lists_TSC_DTW.docx**
+- **File 2-Lists_TSC_DTW.docx**  
   The justice-stratified county group lists from the Time Series Cluster with Dynamic Time Warping (TSC-DTW)  
-- **File 3-Lists_MOO.docx**
+- **File 3-Lists_MOO.docx**  
   The justice-stratified county group lists from the Multi-objective Optimization (based on pymoo)
 
 Each file lists the resulting country groups formed under different methodological approaches, used in justice-based IAM scenario testing.
@@ -56,13 +56,13 @@ Each file lists the resulting country groups formed under different methodologic
 
 Contains RMSE results under various urbanization speed and Shared Socioeconomic Pathway (SSP) scenarios:
 
-- **4.1 RMSE_FAST**
+- **4.1 RMSE_FAST**  
   RMSE results under the *Fast Urbanization* scenario
-- **4.2 RMSE_SLOW**
+- **4.2 RMSE_SLOW**  
   RMSE results under the *Slow Urbanization* scenario
-- **4.3 RMSE_MOD**
+- **4.3 RMSE_MOD**  
   RMSE results under the *Moderate Urbanization* scenario
-- **4.4 RMSE_SSP4**
+- **4.4 RMSE_SSP4**  
   RMSE results under the *SSP-4* scenario
 
 Each subfolder contains the RMSE results comparing urbanization projections from Hierarchical Clustering, DTW Clustering, and MOO methods, as well as projections from Jian & O'Neill and Chen et al., against historical urbanization data from the World Bank.
