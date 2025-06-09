@@ -48,14 +48,18 @@ Each file lists the resulting country groups formed under different methodologic
 
 ---
 
-### 4.The Urbanization Projection Comparisons Folder
+### 4. UrbanProj_Comparisons Folder
 
 Contains RMSE results under various urbanization speed and Shared Socioeconomic Pathway (SSP) scenarios:
 
-- **4.1 FAST Urbanization Scenario**  
-- **4.2 SLOW Urbanization Scenario**  
-- **4.3 MODERATE Urbanization Scenario**  
-- **4.4 SSP-4 Scenario**
+- **4.1 RMSE_FAST**
+  RMSE results under the *Fast Urbanization* scenario  
+- **4.2 RMSE_SLOW**
+  RMSE results under the *Slow Urbanization* scenario
+- **4.3 RMSE_MOD**
+  RMSE results under the *Moderate Urbanization* scenario
+- **4.4 RMSE_SSP4**
+  RMSE results under the *SSP-4* scenario
 
 Each subfolder contains the RMSE results comparing urbanization projections from Hierarchical Clustering, DTW Clustering, and MOO methods, as well as projections from Jian & O'Neill and Chen et al., against historical urbanization data from the World Bank.
 
