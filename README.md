@@ -45,8 +45,12 @@ This folder includes the resulting groupings of countries based on the applied m
   The justice-stratified county group lists from the Hierarchical-Clustering  
 - **File 2-Lists_TSC_DTW.docx**  
   The justice-stratified county group lists from the Time Series Cluster with Dynamic Time Warping (TSC-DTW)  
-- **File 3-Lists_MOO.docx**  
-  The justice-stratified county group lists from the Multi-objective Optimization (based on pymoo)
+- **File 3-Lists_MOO_2003.docx**  
+  The justice-stratified county group lists (2003) from the Multi-objective Optimization (based on pymoo)
+- **File 4-Lists_MOO_2012.docx**  
+  The justice-stratified county group lists (2012) from the Multi-objective Optimization (based on pymoo)
+- **File 5-Lists_MOO_2022.docx**  
+  The justice-stratified county group lists (2022) from the Multi-objective Optimization (based on pymoo)
 
 Each file lists the resulting country groups formed under different methodological approaches, used in justice-based IAM scenario testing.
 
